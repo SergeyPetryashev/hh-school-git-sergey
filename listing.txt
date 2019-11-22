@@ -1,0 +1,27 @@
+total 21
+drwxr-xr-x 1 PNIPS 197121   0 ноя 22 08:54 ./
+drwxr-xr-x 1 PNIPS 197121   0 ноя 22 08:56 ../
+-rw-r--r-- 1 PNIPS 197121  18 ноя 22 08:51 COMMIT_EDITMSG
+-rw-r--r-- 1 PNIPS 197121 188 ноя 22 08:31 config
+-rw-r--r-- 1 PNIPS 197121  73 ноя 22 08:28 description
+-rw-r--r-- 1 PNIPS 197121  26 ноя 22 08:54 HEAD
+drwxr-xr-x 1 PNIPS 197121   0 ноя 22 08:28 hooks/
+-rw-r--r-- 1 PNIPS 197121 217 ноя 22 08:54 index
+drwxr-xr-x 1 PNIPS 197121   0 ноя 22 08:28 info/
+drwxr-xr-x 1 PNIPS 197121   0 ноя 22 08:41 logs/
+drwxr-xr-x 1 PNIPS 197121   0 ноя 22 08:51 objects/
+drwxr-xr-x 1 PNIPS 197121   0 ноя 22 08:28 refs/
+total 8
+drwxr-xr-x 1 PNIPS 197121 0 ноя 22 08:57 ./
+drwxr-xr-x 1 PNIPS 197121 0 ноя 22 08:57 ../
+drwxr-xr-x 1 PNIPS 197121 0 ноя 22 08:51 0b/
+drwxr-xr-x 1 PNIPS 197121 0 ноя 22 08:56 21/
+drwxr-xr-x 1 PNIPS 197121 0 ноя 22 08:40 2c/
+drwxr-xr-x 1 PNIPS 197121 0 ноя 22 08:41 44/
+drwxr-xr-x 1 PNIPS 197121 0 ноя 22 08:41 6d/
+drwxr-xr-x 1 PNIPS 197121 0 ноя 22 08:51 ab/
+drwxr-xr-x 1 PNIPS 197121 0 ноя 22 08:57 b7/
+drwxr-xr-x 1 PNIPS 197121 0 ноя 22 08:51 d3/
+drwxr-xr-x 1 PNIPS 197121 0 ноя 22 08:57 e8/
+drwxr-xr-x 1 PNIPS 197121 0 ноя 22 08:28 info/
+drwxr-xr-x 1 PNIPS 197121 0 ноя 22 08:28 pack/
